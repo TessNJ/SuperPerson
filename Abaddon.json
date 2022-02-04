@@ -1,0 +1,12 @@
+{
+  "name": "Abaddon",
+  "powers": ["Shapeshifting", "Mind Manipulation", "Imortality"],
+  "primaryNemesis": "Vigilance",
+  "img": "https://i.pinimg.com/originals/f1/03/fd/f103fde4db499d8fac84640d6206e111.jpg",
+  "lifePercentage": 100,
+  "dob": {
+    "day": 31,
+    "month": 10,
+    "year": 650
+  }
+}
